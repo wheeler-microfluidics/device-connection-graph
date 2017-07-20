@@ -5,7 +5,7 @@ environment:
       MINICONDA: C:\Miniconda
       PYTHON_ARCH: "32"
 
-version: 'not set_c6cbb02b80ca3514fe9e9252ada7edf882c2ae5d
+version: 'not set_e71c016b9fc2961e18de0b19cd931a42a5f468b1
 _appveyor-{build}'
 
 init:
